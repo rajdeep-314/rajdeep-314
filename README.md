@@ -5,4 +5,4 @@ You can reach me at my email : rajdeep31415@gmail.com
 
 <br>
 
-PS : The profile pic is from one of my programs. It's a part of an image of the Mandelbrot set that I generated using p5.js.
+PS : The profile pic is from one of my programs. It's an image of the Mandelbrot set that I generated using p5.js.
