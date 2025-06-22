@@ -1,4 +1,4 @@
-I'm Rajdeep, a second year Computer Science and Engineering student at Indian Institute of Technology, Palakkad\
+I'm Rajdeep, a third year Computer Science and Engineering student at Indian Institute of Technology, Palakkad\
 I'm primarily interested in computer science and mathematics.
 
 You can reach me at my email : rajdeep31415@gmail.com
